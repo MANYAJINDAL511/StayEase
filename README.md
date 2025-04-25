@@ -10,7 +10,8 @@ Deployed Link: https://stayease-8y75.onrender.com/listings
 - Full CRUD for rental listings
 - Interactive maps with Leaflet.js
 - Image uploads via Cloudinary
-- Add, edit, and delete reviews
+- Add, edit, and delete listings
+- Add and delete reviews
 - User authentication and authorization
 - Organized using MVC architecture
 - Server-side rendered with EJS
